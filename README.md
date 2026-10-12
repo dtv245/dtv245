@@ -118,14 +118,5 @@ I'm a **Full Stack Developer** based in Hanoi, Vietnam. I enjoy building practic
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile.;Build+useful+things.;Keep+learning%2C+keep+shipping." alt="Thanks for visiting my profile" />
 
-<br />
-
-**Open to connecting about full-stack development, frontend engineering, and practical software projects.**
-
-[GitHub](https://github.com/dtv245) · [LinkedIn](https://www.linkedin.com/in/dangthevu-dev) · [X](https://x.com/ang_vu24)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=dtv245&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
