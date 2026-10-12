@@ -1,11 +1,12 @@
 name: Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"      # chạy mỗi ngày lúc 00:00 UTC
-  workflow_dispatch:          # cho phép bấm chạy tay
-  push:
-    branches: [main]
+  # Cập nhật mỗi ngày lúc 00:00 UTC
+  schedule: [{ cron: "0 0 * * *" }]
+  # Cho phép bấm chạy tay trong tab Actions
+  workflow_dispatch:
+  # Chạy khi push lên main (metrics tự bỏ qua commit do chính nó tạo ra)
+  push: { branches: ["main"] }
 
 jobs:
   github-metrics:
@@ -15,14 +16,37 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tạo Personal Access Token (classic, scope: read:user, repo)
-          # rồi lưu vào Settings > Secrets and variables > Actions > METRICS_TOKEN
+          # PAT lưu trong Settings > Secrets and variables > Actions
           token: ${{ secrets.METRICS_TOKEN }}
           user: dtv245
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
           filename: github-metrics.svg
+
+          # Bố cục ngang 2 cột (rộng 960px thay vì 480px)
+          config_display: large
+          config_timezone: Asia/Ho_Chi_Minh
+
+          # Cột trái: header, lịch isocalendar 3D, ngôn ngữ
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+
+          # Cột phải: repo nổi bật + thói quen code
+          plugin_repositories: yes
+          plugin_repositories_featured: dtv245/Ship-app, dtv245/FaceNet
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # --- Tuỳ chọn: khối AniList như ảnh mẫu (bỏ dấu # và điền username AniList) ---
+          # plugin_anilist: yes
+          # plugin_anilist_user: TEN_ANILIST_CUA_BAN
+          # plugin_anilist_medias: anime, manga
+          # plugin_anilist_sections: favorites, characters
