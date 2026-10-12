@@ -84,15 +84,3 @@
     </td>
   </tr>
 </table>
-
-🧭 About Me
-- 💻 Interested in Full Stack Development and Frontend Engineering.
-- 🛠️ Building and improving practical projects, including the Ship ERP dashboard.
-- 🌱 Continuously learning clean code, application architecture, and problem-solving.
-- 🤝 Open to connecting with developers and collaborating on useful software projects.
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Build+useful+things.;Keep+learning.+Keep+shipping." alt="Typing animation" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=dtv245&style=flat-square&color=16a34a&label=PROFILE+VIEWS" alt="Profile view counter" />
-  <p><i>“Build, learn, improve — one commit at a time.”</i></p>
-</div>
