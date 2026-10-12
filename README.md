@@ -4,14 +4,6 @@
   Replace or remove any section that does not represent your current interests.
 -->
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:123b35,100:22c55e&height=185&section=header&text=DANG%20THE%20VU&fontSize=42&fontColor=f0f6fc&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20USEFUL%20SOFTWARE&descSize=14&descAlignY=60"
-    alt="DANG THE VU — Full Stack Developer"
-    width="100%"
-  />
-</div>
-
 <table width="100%">
   <tr>
     <td width="32%" valign="top" align="center">
