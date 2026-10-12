@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="314" viewBox="0 0 820 314" role="img" aria-label="Terminal intro: Dang The Vu, Full Stack Developer, Hanoi, Vietnam">
+  <title>Terminal intro</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#8957e5"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="46.0" y="55" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;78.0" calcMode="discrete" dur="0.27s" begin="0.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="46.0" y="107" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;132.0" calcMode="discrete" dur="0.54s" begin="1.77s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="46.0" y="159" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;168.0" calcMode="discrete" dur="0.72s" begin="3.21s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="46.0" y="211" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;105.0" calcMode="discrete" dur="0.40s" begin="4.83s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="818" height="312" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M13 1 H807 A12 12 0 0 1 819 13 V36 H1 V13 A12 12 0 0 1 13 1 Z" fill="#161b22"/>
+  <rect x="1" y="36" width="818" height="2" fill="url(#bar)"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="410.0" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">dtv245 — zsh</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve">
+    <text x="28" y="72" fill="#3fb950" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.60s" fill="freeze"/></text>
+    <text x="46.0" y="72" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
+    <text x="28" y="98" fill="#58a6ff" font-weight="bold" opacity="0">Dang The Vu<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.22s" fill="freeze"/></text>
+    <text x="28" y="124" fill="#3fb950" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.77s" fill="freeze"/></text>
+    <text x="46.0" y="124" fill="#e6edf3" clip-path="url(#c2)">cat role.txt</text>
+    <text x="28" y="150" fill="#8b949e" opacity="0">Full Stack Developer · React · TypeScript<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.66s" fill="freeze"/></text>
+    <text x="28" y="176" fill="#3fb950" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.21s" fill="freeze"/></text>
+    <text x="46.0" y="176" fill="#e6edf3" clip-path="url(#c4)">cat location.txt</text>
+    <text x="28" y="202" fill="#8b949e" opacity="0">Hanoi, Vietnam<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.28s" fill="freeze"/></text>
+    <text x="28" y="228" fill="#3fb950" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.83s" fill="freeze"/></text>
+    <text x="46.0" y="228" fill="#e6edf3" clip-path="url(#c6)">ls stack/</text>
+    <text x="28" y="254" fill="#8b949e" opacity="0">react  typescript  vite  tailwind  antd  cpp  python<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.58s" fill="freeze"/></text>
+    <text x="28" y="280" fill="#3fb950">$</text>
+    <rect x="46.0" y="265" width="9" height="19" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="6.13s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

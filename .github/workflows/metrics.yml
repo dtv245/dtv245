@@ -1,0 +1,28 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:          # cho phép bấm chạy tay
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tạo Personal Access Token (classic, scope: read:user, repo)
+          # rồi lưu vào Settings > Secrets and variables > Actions > METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dtv245
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          filename: github-metrics.svg
