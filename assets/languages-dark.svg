@@ -30,11 +30,11 @@
 <rect x="419.0" y="73.5" width="90.0" height="2.0" fill="#3572A5"><title>2025 · Python: 2%</title></rect>
 <rect x="419.0" y="70.0" width="90.0" height="2.5" fill="#8b949e"><title>2025 · Other: 2%</title></rect>
 <text x="464.0" y="288" text-anchor="middle" font-size="13" font-weight="600" fill="#e6edf3">2025</text>
-<rect x="699.0" y="161.1" width="90.0" height="103.9" fill="#3178c6"><title>2026 · TypeScript: 54%</title></rect>
-<rect x="699.0" y="118.7" width="90.0" height="41.4" fill="#b07219"><title>2026 · Java: 22%</title></rect>
-<rect x="699.0" y="88.4" width="90.0" height="29.3" fill="#4F5D95"><title>2026 · PHP: 15%</title></rect>
-<rect x="699.0" y="88.2" width="90.0" height="0.5" fill="#f1e05a"><title>2026 · JavaScript: 0%</title></rect>
-<rect x="699.0" y="80.0" width="90.0" height="7.2" fill="#3572A5"><title>2026 · Python: 4%</title></rect>
+<rect x="699.0" y="160.6" width="90.0" height="104.4" fill="#3178c6"><title>2026 · TypeScript: 54%</title></rect>
+<rect x="699.0" y="118.4" width="90.0" height="41.2" fill="#b07219"><title>2026 · Java: 22%</title></rect>
+<rect x="699.0" y="88.3" width="90.0" height="29.1" fill="#4F5D95"><title>2026 · PHP: 15%</title></rect>
+<rect x="699.0" y="88.1" width="90.0" height="0.5" fill="#f1e05a"><title>2026 · JavaScript: 0%</title></rect>
+<rect x="699.0" y="79.9" width="90.0" height="7.1" fill="#3572A5"><title>2026 · Python: 4%</title></rect>
 <rect x="699.0" y="73.9" width="90.0" height="5.0" fill="#336790"><title>2026 · PLpgSQL: 3%</title></rect>
 <rect x="699.0" y="71.0" width="90.0" height="1.9" fill="#c6538c"><title>2026 · SCSS: 1%</title></rect>
 <rect x="699.0" y="70.0" width="90.0" height="0.5" fill="#8b949e"><title>2026 · Other: 1%</title></rect>
