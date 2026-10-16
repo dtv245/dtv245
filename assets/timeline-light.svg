@@ -3,35 +3,37 @@
 <text x="44" y="24" font-size="14" font-weight="600" fill="#1f2328">Contributions per month</text>
 <line x1="44" y1="230.0" x2="884" y2="230.0" stroke="#d8dee4" stroke-width="1"/>
 <text x="36" y="234.0" text-anchor="end" font-size="11" fill="#656d76">0</text>
-<line x1="44" y1="137.0" x2="884" y2="137.0" stroke="#d8dee4" stroke-width="1"/>
-<text x="36" y="141.0" text-anchor="end" font-size="11" fill="#656d76">50</text>
+<line x1="44" y1="168.0" x2="884" y2="168.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="36" y="172.0" text-anchor="end" font-size="11" fill="#656d76">50</text>
+<line x1="44" y1="106.0" x2="884" y2="106.0" stroke="#d8dee4" stroke-width="1"/>
+<text x="36" y="110.0" text-anchor="end" font-size="11" fill="#656d76">100</text>
 <line x1="44" y1="44.0" x2="884" y2="44.0" stroke="#d8dee4" stroke-width="1"/>
-<text x="36" y="48.0" text-anchor="end" font-size="11" fill="#656d76">100</text>
+<text x="36" y="48.0" text-anchor="end" font-size="11" fill="#656d76">150</text>
 <rect x="169.7" y="228.0" width="11.2" height="2.0" rx="2" fill="#0969da"><title>2023-08: 1 contributions</title></rect>
 <text x="149.0" y="256" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">2023</text>
 <text x="149.0" y="272" text-anchor="middle" font-size="11" fill="#656d76">1</text>
 <line x1="254.0" y1="44" x2="254.0" y2="236" stroke="#d8dee4" stroke-dasharray="3 3"/>
 <rect x="292.1" y="228.0" width="11.2" height="2.0" rx="2" fill="#0969da"><title>2024-03: 1 contributions</title></rect>
-<rect x="309.6" y="222.6" width="11.2" height="7.4" rx="2" fill="#0969da"><title>2024-04: 4 contributions</title></rect>
-<rect x="414.6" y="226.3" width="11.2" height="3.7" rx="2" fill="#0969da"><title>2024-10: 2 contributions</title></rect>
+<rect x="309.6" y="225.0" width="11.2" height="5.0" rx="2" fill="#0969da"><title>2024-04: 4 contributions</title></rect>
+<rect x="414.6" y="227.5" width="11.2" height="2.5" rx="2" fill="#0969da"><title>2024-10: 2 contributions</title></rect>
 <text x="359.0" y="256" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">2024</text>
 <text x="359.0" y="272" text-anchor="middle" font-size="11" fill="#656d76">7</text>
 <line x1="464.0" y1="44" x2="464.0" y2="236" stroke="#d8dee4" stroke-dasharray="3 3"/>
-<rect x="642.1" y="53.3" width="11.2" height="176.7" rx="2" fill="#0969da"><title>2025-11: 95 contributions</title></rect>
-<rect x="659.6" y="213.3" width="11.2" height="16.7" rx="2" fill="#0969da"><title>2025-12: 9 contributions</title></rect>
+<rect x="642.1" y="112.2" width="11.2" height="117.8" rx="2" fill="#0969da"><title>2025-11: 95 contributions</title></rect>
+<rect x="659.6" y="218.8" width="11.2" height="11.2" rx="2" fill="#0969da"><title>2025-12: 9 contributions</title></rect>
 <text x="569.0" y="256" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">2025</text>
 <text x="569.0" y="272" text-anchor="middle" font-size="11" fill="#656d76">104</text>
 <line x1="674.0" y1="44" x2="674.0" y2="236" stroke="#d8dee4" stroke-dasharray="3 3"/>
-<rect x="677.1" y="207.7" width="11.2" height="22.3" rx="2" fill="#0969da"><title>2026-01: 12 contributions</title></rect>
-<rect x="694.6" y="148.2" width="11.2" height="81.8" rx="2" fill="#0969da"><title>2026-02: 44 contributions</title></rect>
-<rect x="712.1" y="205.8" width="11.2" height="24.2" rx="2" fill="#0969da"><title>2026-03: 13 contributions</title></rect>
-<rect x="729.6" y="122.1" width="11.2" height="107.9" rx="2" fill="#0969da"><title>2026-04: 58 contributions</title></rect>
-<rect x="747.1" y="163.0" width="11.2" height="67.0" rx="2" fill="#0969da"><title>2026-05: 36 contributions</title></rect>
-<rect x="764.6" y="222.6" width="11.2" height="7.4" rx="2" fill="#0969da"><title>2026-06: 4 contributions</title></rect>
-<rect x="782.1" y="204.0" width="11.2" height="26.0" rx="2" fill="#0969da"><title>2026-07: 14 contributions</title></rect>
-<rect x="799.6" y="157.5" width="11.2" height="72.5" rx="2" fill="#0969da"><title>2026-08: 39 contributions</title></rect>
-<rect x="817.1" y="204.0" width="11.2" height="26.0" rx="2" fill="#0969da"><title>2026-09: 14 contributions</title></rect>
-<rect x="834.6" y="45.9" width="11.2" height="184.1" rx="2" fill="#0969da"><title>2026-10: 99 contributions</title></rect>
+<rect x="677.1" y="215.1" width="11.2" height="14.9" rx="2" fill="#0969da"><title>2026-01: 12 contributions</title></rect>
+<rect x="694.6" y="175.4" width="11.2" height="54.6" rx="2" fill="#0969da"><title>2026-02: 44 contributions</title></rect>
+<rect x="712.1" y="213.9" width="11.2" height="16.1" rx="2" fill="#0969da"><title>2026-03: 13 contributions</title></rect>
+<rect x="729.6" y="158.1" width="11.2" height="71.9" rx="2" fill="#0969da"><title>2026-04: 58 contributions</title></rect>
+<rect x="747.1" y="185.4" width="11.2" height="44.6" rx="2" fill="#0969da"><title>2026-05: 36 contributions</title></rect>
+<rect x="764.6" y="225.0" width="11.2" height="5.0" rx="2" fill="#0969da"><title>2026-06: 4 contributions</title></rect>
+<rect x="782.1" y="212.6" width="11.2" height="17.4" rx="2" fill="#0969da"><title>2026-07: 14 contributions</title></rect>
+<rect x="799.6" y="181.6" width="11.2" height="48.4" rx="2" fill="#0969da"><title>2026-08: 39 contributions</title></rect>
+<rect x="817.1" y="212.6" width="11.2" height="17.4" rx="2" fill="#0969da"><title>2026-09: 14 contributions</title></rect>
+<rect x="834.6" y="103.5" width="11.2" height="126.5" rx="2" fill="#0969da"><title>2026-10: 102 contributions</title></rect>
 <text x="779.0" y="256" text-anchor="middle" font-size="13" font-weight="600" fill="#1f2328">2026</text>
-<text x="779.0" y="272" text-anchor="middle" font-size="11" fill="#656d76">333</text>
+<text x="779.0" y="272" text-anchor="middle" font-size="11" fill="#656d76">336</text>
 </svg>
